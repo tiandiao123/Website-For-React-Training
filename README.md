@@ -8,4 +8,7 @@
 * Install [npm](https://github.com/npm/npm) for developing this website
 
 ### Recource
-* [BABEL](https://babeljs.io/)
+* [BABEL](https://babeljs.io/) for compiling JavaScript:
+```
+npm install --save-dev babel-cli
+```
