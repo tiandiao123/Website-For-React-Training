@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/tiandiao123/Website-For-React-Training#readme",
   "devDependencies": {
-    "babel-cli": "^6.24.1"
+    "babel-cli": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
   }
 }
